@@ -15,3 +15,7 @@ Purpose text
 Deployment text
 
 ## How to contribute
+
+## Copyright
+
+Copyright text
