@@ -1,6 +1,10 @@
 # Starter Web Project
 
+Starter Web project text
+
 ## Introduction
+
+Introduction text
 
 ## Purpose
 
