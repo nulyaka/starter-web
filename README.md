@@ -16,6 +16,8 @@ Deployment text
 
 ## How to contribute
 
+Contribute text
+
 ## Copyright
 
 Copyright text
